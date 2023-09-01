@@ -1,0 +1,15 @@
+/Users/kirkflores/Documents/Repos/CSharp_OOP_Notes/4_Pillars_OOP/bin/Debug/net7.0/4_Pillars_OOP
+/Users/kirkflores/Documents/Repos/CSharp_OOP_Notes/4_Pillars_OOP/bin/Debug/net7.0/4_Pillars_OOP.deps.json
+/Users/kirkflores/Documents/Repos/CSharp_OOP_Notes/4_Pillars_OOP/bin/Debug/net7.0/4_Pillars_OOP.runtimeconfig.json
+/Users/kirkflores/Documents/Repos/CSharp_OOP_Notes/4_Pillars_OOP/bin/Debug/net7.0/4_Pillars_OOP.dll
+/Users/kirkflores/Documents/Repos/CSharp_OOP_Notes/4_Pillars_OOP/bin/Debug/net7.0/4_Pillars_OOP.pdb
+/Users/kirkflores/Documents/Repos/CSharp_OOP_Notes/4_Pillars_OOP/obj/Debug/net7.0/4_Pillars_OOP.csproj.AssemblyReference.cache
+/Users/kirkflores/Documents/Repos/CSharp_OOP_Notes/4_Pillars_OOP/obj/Debug/net7.0/4_Pillars_OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirkflores/Documents/Repos/CSharp_OOP_Notes/4_Pillars_OOP/obj/Debug/net7.0/4_Pillars_OOP.AssemblyInfoInputs.cache
+/Users/kirkflores/Documents/Repos/CSharp_OOP_Notes/4_Pillars_OOP/obj/Debug/net7.0/4_Pillars_OOP.AssemblyInfo.cs
+/Users/kirkflores/Documents/Repos/CSharp_OOP_Notes/4_Pillars_OOP/obj/Debug/net7.0/4_Pillars_OOP.csproj.CoreCompileInputs.cache
+/Users/kirkflores/Documents/Repos/CSharp_OOP_Notes/4_Pillars_OOP/obj/Debug/net7.0/4_Pillars_OOP.dll
+/Users/kirkflores/Documents/Repos/CSharp_OOP_Notes/4_Pillars_OOP/obj/Debug/net7.0/refint/4_Pillars_OOP.dll
+/Users/kirkflores/Documents/Repos/CSharp_OOP_Notes/4_Pillars_OOP/obj/Debug/net7.0/4_Pillars_OOP.pdb
+/Users/kirkflores/Documents/Repos/CSharp_OOP_Notes/4_Pillars_OOP/obj/Debug/net7.0/4_Pillars_OOP.genruntimeconfig.cache
+/Users/kirkflores/Documents/Repos/CSharp_OOP_Notes/4_Pillars_OOP/obj/Debug/net7.0/ref/4_Pillars_OOP.dll
